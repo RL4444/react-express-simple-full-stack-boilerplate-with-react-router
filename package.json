@@ -1,0 +1,23 @@
+{
+    "name": "react-with-express-and-react-router",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
+    },
+    "keywords": [
+        "react",
+        "create-react-app",
+        "express",
+        "react-router",
+        "styled-components",
+        "react-icons"
+    ],
+    "author": "https://github.com/RL4444",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
