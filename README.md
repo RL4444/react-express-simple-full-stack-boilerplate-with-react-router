@@ -1,6 +1,8 @@
-#React Fullstack app with Express / Node backend, React Router, Styled-Components and React-Icons#
+# React Fullstack app with Express / Node backend, React Router, Styled-Components and React-Icons
 
-##Starting the Backend##
+This is a very basic full stack boilerplate for people looking to quick start a React w/ Express backend app. 
+
+## Starting the Backend
 
 Express.js server serving backend api files
 
@@ -10,7 +12,7 @@ To start server use `yarn start` @ project root (not in `/client` dir)
 
 Please include '/api/' in all api routes as best practice and to distinguish from routes that are to be used by react router.
 
-##Starting the Client##
+## Starting the Client
 
 change into '/Client' directory `cd /client`
 
@@ -20,7 +22,7 @@ to start the server in development use
 
 `npm run start` or `yarn start`
 
-##Styled Components##
+## Styled Components
 
 Adjust global stylesheet in ./client/src/Theme.js to your own needs
 
@@ -28,7 +30,7 @@ Styles should be automatically globally accessible throughout the frontend with 
 
 for more on Styled Components see https://styled-components.com
 
-##React-Icons##
+## React-Icons
 
 This package includes the standard most widely used SVG icons and makes life much easier
 
