@@ -1,4 +1,4 @@
-#React Fullstack app with Express / Node backend, React Router, Styled-Components and React-Icons
+#React Fullstack app with Express / Node backend, React Router, Styled-Components and React-Icons#
 
 ##Starting the Backend##
 
